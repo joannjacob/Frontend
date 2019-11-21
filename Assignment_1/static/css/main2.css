@@ -1,0 +1,54 @@
+body {
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.row{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+input {
+   background-color:transparent;
+    outline: none;
+    border: none;
+    height:50px;
+    font-size:20pt;
+    color: #ffffff;
+    padding-top: 20px;
+    padding-right: 30px;
+  padding-bottom: 5px;
+}
+
+.login{
+padding-top: 50px;
+}
+
+.copyright {
+    font-family: Arial,
+         "Helvetica Neue",
+         Helvetica,
+         sans-serif;
+    color: #ffffff;
+    padding-top: 100px;
+}
+
+#signin {
+  background-color: #00b8e6;
+  color: black;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 7%;
+  margin-left: 80px;
+  display: inline-block;
+}
+
+/* Add a hover effect for buttons */
+button:hover {
+  opacity: 0.8;
+}
