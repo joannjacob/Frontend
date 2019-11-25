@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import logo_white from './images/logo_white.svg';
 import typo from './images/typo.png';
 import QBlogo_white from './images/QBlogo_white.png';
- import './App.css';
+import './App.css';
 
  class App extends Component {
    render() { return (
