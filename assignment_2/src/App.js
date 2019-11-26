@@ -7,7 +7,6 @@ import './App.css';
  class App extends Component {
    render() { return (
       <div>
-        <meta charSet="UTF-8" />
         <title>Login</title>
         <div className="main">
           <br /><br />
@@ -29,7 +28,7 @@ import './App.css';
             </a>
             <button type="submit" id="signin" style={{}}>SIGN IN</button>
           </div>
-          <div className="copyright">
+          <div className="footer">
             ©
             {(new Date().getFullYear())}
             <img className="companylogo" src={QBlogo_white} alt="companylogo" style={{verticalAlign: 'sub'}} />

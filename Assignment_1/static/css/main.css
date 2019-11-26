@@ -1,8 +1,8 @@
 
 body {
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
 
 .main{
@@ -20,15 +20,15 @@ input {
     color: #ffffff;
     padding-top: 20px;
     padding-right: 30px;
-  padding-bottom: 5px;
+    padding-bottom: 5px;
 }
 
 
 .login{
-padding-top: 50px;
+    padding-top: 50px;
 }
 
-.copyright {
+.footer {
     font-family: Arial,
          "Helvetica Neue",
          Helvetica,
@@ -38,88 +38,18 @@ padding-top: 50px;
 }
 
 #signin {
-  background-color: #00b8e6;
-  color: black;
-  padding: 14px 20px;
-  margin: 8px 0;
-  border: none;
-  cursor: pointer;
-  width: 7%;
-  margin-left: 80px;
-  font-size: 20px;
+    background-color: #00b8e6;
+    color: black;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 7%;
+    margin-left: 80px;
+    font-size: 20px;
 }
 
 /* Add a hover effect for buttons */
 button:hover {
-  opacity: 0.8;
+    opacity: 0.8;
 }
-
-
-
-
-/*.year {
-color: #ffffff;
-
-}
-
-img.companylogo {
-   padding-top: 30px;
-   vertical-align: sub;
-}
-
-#username {
-    background-color:transparent;
-    outline:none;
-    border:none;
-    height:50px;
-    font-size:20pt;
-    color: #ffffff;
-    padding-top: 30px;
-    padding-right: 30px;
-  padding-bottom: 5px;
-  padding-left: 700px;
-}
-
-#password {
-    background-color: transparent;
-    outline: none;
-    border: none;
-    height:50px;
-    font-size:20pt;
-    color: #ffffff;
-    padding-top: 5px;
-  padding-right: 30px;
-  padding-bottom: 30px;
-  padding-left: 700px;
-
-}
-
-.topimage{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
-}
-img.location {
-    display: block;
-    margin-left: auto;
-    margin-right: auto
-}
-
-img.quickasset {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    *//**//*height: 100px;*//*
-    width: 250px;
-}
-
-#adminlogin {
-    padding-top: 30px;
-  padding-right: 30px;
-  padding-bottom: 30px;
-  color:#ffffff;
-
-}*/
-
-

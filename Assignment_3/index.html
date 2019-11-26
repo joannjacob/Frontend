@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Login</title>
+    <link rel="stylesheet" href="static/css/main.css"/>
+</head>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<body background="static/images/login_bg.jpg">
+<div class="container">
+    <br><br>
+    <div class="topimage">
+        <img class="location" src="static/images/logo_white.svg" alt="location">
+        <br><br>
+        <img class="quickasset" src="static/images/typo.png" alt="quickasset">
+    </div>
+
+    <form method="post" action="index.html">
+        <div class="inputs">
+            <input type="text" id="username" placeholder="Username" name="username" required>
+            <hr class="line">
+            <input type="password" id="password" placeholder="Password" name="password" required>
+        </div>
+    </form>
+
+    <div class="login">
+        <a href="#" id="adminlogin">ADMIN LOGIN</a>
+        <button type="submit" id="signin">SIGN IN</button>
+    </div>
+    <div id="footer">
+        <div class="copyright">
+            &copy;
+            <script>document.write( new Date().getFullYear() );</script>
+            <img class="companylogo" src="static/images/QBlogo_white.png" alt="companylogo">
+        </div>
+    </div>
+</div>
+</body>
+</html>
