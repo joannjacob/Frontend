@@ -1,0 +1,85 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+
+
+body {
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-image: url("images/login_bg.jpg");
+}
+
+.main{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+input {
+   background-color:transparent;
+    outline: none;
+    border: none;
+    height:50px;
+    font-size:20pt;
+    color: #ffffff;
+    padding-top: 20px;
+    padding-right: 30px;
+  padding-bottom: 5px;
+}
+
+
+.login{
+padding-top: 50px;
+}
+
+.footer {
+    font-family: Arial,
+         "Helvetica Neue",
+         Helvetica,
+         sans-serif;
+    color: #ffffff;
+    padding-top: 100px;
+}
+
+#signin {
+  background-color: #00b8e6;
+  color: black;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 7%;
+  margin-left: 80px;
+  font-size: 20px;
+}
+
+/* Add a hover effect for buttons */
+button:hover {
+  opacity: 0.8;
+}
+
+
+
+
+
