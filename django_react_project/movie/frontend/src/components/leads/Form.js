@@ -24,6 +24,7 @@ export class Form extends Component {
     const lead = { title, description };
     console.log(title, description);
     this.props.addLead(lead);
+    this.setState({ title: "", description: "" });
   };
   render() {
     const { title, description } = this.state;

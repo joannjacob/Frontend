@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c36b80b0-fbb6-4022-a91a-91708ec0c7cc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_react_project/movie/frontend/src/actions/leads.js" beforeDir="false" afterPath="$PROJECT_DIR$/django_react_project/movie/frontend/src/actions/leads.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_react_project/movie/frontend/src/actions/types.js" beforeDir="false" afterPath="$PROJECT_DIR$/django_react_project/movie/frontend/src/actions/types.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_react_project/movie/frontend/src/components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/django_react_project/movie/frontend/src/components/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_react_project/movie/frontend/src/components/layout/Alerts.js" beforeDir="false" afterPath="$PROJECT_DIR$/django_react_project/movie/frontend/src/components/layout/Alerts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_react_project/movie/frontend/src/components/leads/Form.js" beforeDir="false" afterPath="$PROJECT_DIR$/django_react_project/movie/frontend/src/components/leads/Form.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_react_project/movie/frontend/src/reducers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/django_react_project/movie/frontend/src/reducers/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_react_project/movie/frontend/static/frontend/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/django_react_project/movie/frontend/static/frontend/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_react_project/movie/movie/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_react_project/movie/movie/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_react_project/movie/movie/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_react_project/movie/movie/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_react_project/movie/movielist/api.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_react_project/movie/movielist/api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_react_project/movie/movielist/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_react_project/movie/movielist/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingcart/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/shoppingcart/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingcart/shopping_cart/frontend/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingcart/shopping_cart/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/shoppingcart/shopping_cart/frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingcart/shopping_cart/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/shoppingcart/shopping_cart/frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingcart/shopping_cart/frontend/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingcart/shopping_cart/frontend/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingcart/shopping_cart/frontend/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingcart/shopping_cart/frontend/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingcart/shopping_cart/frontend/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/shoppingcart/shopping_cart/frontend/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingcart/shopping_cart/frontend/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingcart/shopping_cart/shopping_cart/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/shoppingcart/shopping_cart/shopping_cart/settings.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1TumSw8MlTyWFh7YHGLPbM7fCiW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$USER_HOME$/shoppingcart" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Assignment_3" />
+      <recent name="$PROJECT_DIR$/assignment_2/src/images" />
+      <recent name="$PROJECT_DIR$/Assignment_2" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c36b80b0-fbb6-4022-a91a-91708ec0c7cc" name="Default Changelist" comment="" />
+      <created>1574318357283</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574318357283</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1580185694809">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1580185694809" />
+    <state x="644" y="513" key="com.intellij.ide.util.TipDialog" timestamp="1580185687047">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="644" y="513" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1580185687047" />
+  </component>
+</project>

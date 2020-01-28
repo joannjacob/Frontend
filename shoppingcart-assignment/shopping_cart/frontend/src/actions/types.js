@@ -1,0 +1,14 @@
+export const GET_LEADS = "GET_LEADS";
+export const DELETE_LEAD = "DELETE_LEAD";
+export const ADD_LEAD = "ADD_LEAD";
+export const GET_PRODUCTS = "GET_PRODUCTS";
+export const DELETE_PRODUCT = "DELETE_PRODUCT";
+export const ADD_PRODUCT = "ADD_PRODUCT";
+export const GET_ERRORS = "GET_ERRORS";
+export const GET_CART = "GET_CART";
+export const CREATE_MESSAGE = "CREATE_MESSAGE";
+export const ADD_TO_CART = "ADD_TO_CART";
+export const REMOVE_FROM_CART = "REMOVE_FROM_CART";
+export const INCREMENT = "INCREMENT";
+export const DECREMENT = "DECREMENT";
+export const UPDATE_CART_QUANTITY = "UPDATE_CART_QUANTITY";
