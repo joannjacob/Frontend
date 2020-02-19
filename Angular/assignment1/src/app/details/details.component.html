@@ -1,0 +1,20 @@
+<mat-card class="example-card">
+  <mat-card-header>
+    <!-- <mat-card-title>{{ details.name }}</mat-card-title>
+    <mat-card-subtitle>{{ details.serial_number }}</mat-card-subtitle> -->
+  </mat-card-header>
+  <img mat-card-image src="{{ details.image }}" alt="{{ details.name }}" />
+  <mat-card-content>
+    <dl>
+      <dt>Name:</dt>
+      <dd>{{ details.name }}</dd>
+      <dt>Description:</dt>
+      <dd>{{ details.description }}</dd>
+      <dt>Cost:</dt>
+      <dd>{{ details.cost }}</dd>
+    </dl>
+  </mat-card-content>
+  <mat-card-actions>
+    <button mat-button [routerLink]="['/list/']">Back</button>
+  </mat-card-actions>
+</mat-card>
